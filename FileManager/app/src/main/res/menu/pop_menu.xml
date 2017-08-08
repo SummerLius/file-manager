@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pop_copy"
+        android:title="复制"/>
+    <item
+        android:id="@+id/pop_cut"
+        android:title="移动"/>
+    <item
+        android:id="@+id/pop_delete"
+        android:title="删除"/>
+    <item
+        android:id="@+id/pop_details"
+        android:title="详情"/>
+    <item
+        android:id="@+id/pop_rename"
+        android:title="重命名"/>
+</menu>
