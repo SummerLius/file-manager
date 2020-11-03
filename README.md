@@ -1,5 +1,6 @@
 # file-manager
-A hurried graduation project.  (2016.4)
+
+(2016.4)
 
 <hr/>
 
